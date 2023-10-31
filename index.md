@@ -1,123 +1,25 @@
 ---
-layout: default
+layout: page
+title: Who am I?
+permalink: /about
+image: cambridge-1.jpg
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+<!--![again2](/assets/img/rob-1.jpg)-->
 
-[Link to another page](./another-page.html).
+<img src="/assets/img/rob-2.jpg" alt="drawing" width="200"/>
 
-There should be whitespace between paragraphs.
+Good question! 
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Hei, I'm Rob, Postodoctoral Research Fellow at the University of Bergen (Universitetet i Bergen på norsk[^1]). Previously, I was a PhD candidate at the Scott Polar Research Institue at the University of Cambridge. 
 
-# Header 1
+My work uses numerical modelling and observations to disentangle how ice sheets move. In particular, I'm interested in the thermal state and basal motion mechanics of the Greenland Ice Sheet. 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+For [my PhD](https://doi.org/10.17863/CAM.90692) I obtained fibre-optic borehole recordings from a fast-moving outlet glacier, with [results](https://doi.org/10.1126/sciadv.abe7136) showing unexcpected variations in temperate layer thickness amongst other fun stuff. I spent the next couple of years modelling this[^2],  which uncovered some [neat behaviour](https://www.science.org/doi/10.1126/sciadv.abq5180) behind these initially inocous discrepancies. 
 
-## Header 2
+Now, I use the internal age layering of the Greenland Ice Sheet, as recorded in [radar isochrons](https://doi.org/10.1002/2014JF003215), to better understand how the ice-sheet's dynamics have evolved over the last glacial cycle. This uses Englacial Layer Simulation Architecture (or ELSA) [isochron-tracing method](https://doi.org/10.5194/tc-15-4539-2021) as part of a great group here in Bergen. 
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+On this site you can find [my publications](https://rlawglacio.github.io/publications) and hopefully a few other bits if I get round to them!
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[^1]: universitet -> university, universiteter -> universities, universitetet -> the university
+[^2]: well, learning to model it at first
