@@ -1,8 +1,12 @@
----
+<!---
 layout: page
 title: Who am I?
 permalink: /about
 image: cambridge-1.jpg
+--->
+
+---
+layout: default
 ---
 
 <!--![again2](/assets/img/rob-1.jpg)-->
