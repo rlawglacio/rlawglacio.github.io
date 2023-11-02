@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## photos I took 
 
-_yay_
+![Octocat](./assets/img/tree_shaow.jpg)
 
 [back](./)
