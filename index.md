@@ -7,9 +7,7 @@ image: cambridge-1.jpg
 
 <!--![again2](/assets/img/rob-1.jpg)-->
 
-<img src="/assets/img/rob-2.jpg" alt="drawing" width="200"/>
-
-Hei, I'm Rob, Postodoctoral Research Fellow at the University of Bergen (Universitetet i Bergen på norsk[^1]). Previously, I was a PhD candidate at the Scott Polar Research Institue at the University of Cambridge. 
+**Hei**, I'm Rob, Postodoctoral Research Fellow at the University of Bergen (Universitetet i Bergen på norsk[^1]). Previously, I was a PhD candidate at the Scott Polar Research Institue at the University of Cambridge. 
 
 My work uses numerical modelling and observations to disentangle how ice sheets move. In particular, I'm interested in the thermal state and basal motion mechanics of the Greenland Ice Sheet. 
 
