@@ -1,10 +1,10 @@
 title: R Law
 logo: /assets/img/senatepassage.jpg
 email: robert.law@uib.no
-description: Nice quote.
+description: the meteorite is the source of the light
 show_downloads: false
-google_analytics: G-ZLK2GHB055
-color-scheme: auto
+google_analytics:
+color-scheme: light
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag

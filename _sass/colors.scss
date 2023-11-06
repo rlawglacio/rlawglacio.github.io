@@ -38,7 +38,8 @@ hvr -> hover
   // buttons
   --L-a-text-hover-change: 0.8;//the number that --L-a-text gets changed by when it is hovered eg a button has 30% luminosity when left it luminosity is then timesed by 0.8 when the button is hovered
   --clr-a-text: hsl(200, 100%, var(--L-a-text));
-  --clr-a-text-hvr: hsl(200, 100%, calc(var(--L-a-text) * var(--L-a-text-hover-change)));
+  // --clr-a-text-hvr: hsl(200, 100%, calc(var(--L-a-text) * var(--L-a-text-hover-change)));
+  --clr-a-text-hvr: hsl(0, 0%, 0);
   --clr-buttons-main-bg: hsl(0, 0%, var(--L-buttons-main-bg));//the buttons in the main section at the top titled "download zip" "download tarbell" "veiw on github"
   --clr-buttons-main-border: hsl(0, 0%, var(--L-buttons-main-border));
   --clr-buttons-main-text: hsl(0, 0%, var(--L-buttons-main-text));
