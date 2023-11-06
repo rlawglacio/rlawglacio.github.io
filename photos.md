@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## pictures, in no particular order yet 
+## some photos I took 
 
 ![tree shadow](./assets/img/tree_shaow.jpg)
 *Løvstakken in spring*
