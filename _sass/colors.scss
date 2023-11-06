@@ -45,7 +45,7 @@ hvr -> hover
   --clr-buttons-main-text: hsl(0, 0%, var(--L-buttons-main-text));
   --clr-buttons-main-text-hover: hsl(0, 6%, var(--L-buttons-main-text-hover));
   // headers + text
-  --clr-h1-and-bold: hsl(0, 0%, var(--L-h1-and-bold));
+  --clr-h1-and-bold: hsl(0, 0%, 0); //var(--L-h1-and-bold));
   --clr-h2: hsl(0, 0%, var(--L-h2));
   --clr-h-3-6: hsl(0, 0%, var(--L-h-3-6));
   --clr-text: hsl(0, 0%, var(--L-text));
