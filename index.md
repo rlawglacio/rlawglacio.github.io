@@ -5,10 +5,6 @@ permalink: /about
 image: cambridge-1.jpg
 --->
 
----
-layout: default
----
-
 <!--![again2](/assets/img/rob-1.jpg)-->
 
 <img src="/assets/img/rob-2.jpg" alt="drawing" width="200"/>

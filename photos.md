@@ -4,6 +4,6 @@ layout: default
 
 ## photos I took 
 
-![Octocat](./assets/img/tree_shaow.jpg)
+![tree shadow](./assets/img/tree_shaow.jpg)
 
 [back](./)
