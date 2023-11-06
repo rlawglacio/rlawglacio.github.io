@@ -2,12 +2,15 @@
 layout: default
 ---
 
-## photos I took 
+## pictures, in no particular order yet 
 
 ![tree shadow](./assets/img/tree_shaow.jpg)
 *Løvstakken in spring*
 
 ![Pennine way](./assets/img/along_the_pennine_way.png)
 *Kinder Scout to Hebden Bridge*
+
+![cam ely](./assets/img/cam_ely.jpg)
+*Endless coloured ways*
 
 [back](./)
