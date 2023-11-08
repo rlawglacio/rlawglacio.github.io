@@ -14,7 +14,10 @@ layout: default
 *Sula and islands further north*
 
 ![Råkeneset](./assets/img/hardbakke.png)
-*Råkeneset*
+*Råkeneset, the well, the boat house, and the house*
+
+![Sotra](./assets/img/sotra.jpg)
+*midtsommer fisk*
 
 <!-- ![cam ely](./assets/img/cam_ely.jpg)
 *Endless coloured ways* -->
