@@ -5,12 +5,18 @@ layout: default
 ## some photos I took 
 
 ![tree shadow](./assets/img/tree_shaow.jpg)
-*Løvstakken in spring*
+*Treebeard*
 
 ![Pennine way](./assets/img/along_the_pennine_way.png)
 *Kinder Scout to Hebden Bridge*
 
-![cam ely](./assets/img/cam_ely.jpg)
-*Endless coloured ways*
+![Sula](./assets/img/hardbakke.jpg)
+*Sula and islands further north*
+
+![Råkeneset](./assets/img/hardbakke.png)
+*Råkeneset*
+
+<!-- ![cam ely](./assets/img/cam_ely.jpg)
+*Endless coloured ways* -->
 
 [back](./)
