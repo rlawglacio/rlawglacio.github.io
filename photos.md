@@ -34,7 +34,13 @@ layout: default
 
 &nbsp;
 
-![Ålfotbreen](./assets/img/lfotbreen2.JPG)
+![Ålfotbreen](./assets/img/Alfotbreen2.JPG)
+*Ålfotbreen*
+
+&nbsp;
+
+![Not Utrecht](./assets/img/groningent.png)
+*Can't you tell*
 
 <!-- ![cam ely](./assets/img/cam_ely.jpg)
 *Endless coloured ways* -->
