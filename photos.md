@@ -29,12 +29,12 @@ layout: default
 
 &nbsp;
 
-![In the Hall of the Mountain King](./assets/Ålfotbreen.png)
+![In the Hall of the Mountain King](./assets/img/Alfotbreen.png)
 *In the Hall of the Mountain King*
 
 &nbsp;
 
-![Ålfotbreen](./assets/Ålfotbreen2.JPG)
+![Ålfotbreen](./assets/img/lfotbreen2.JPG)
 
 <!-- ![cam ely](./assets/img/cam_ely.jpg)
 *Endless coloured ways* -->
