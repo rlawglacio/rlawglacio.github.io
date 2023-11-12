@@ -19,7 +19,7 @@ layout: default
 
 &nbsp;
 
-![Råkeneset](./assets/img/hardbakke.png)
+![Råkeneset](./assets/img/rakeneset.JPG)
 *Råkeneset, the well, the boat house, and the house*
 
 &nbsp;
