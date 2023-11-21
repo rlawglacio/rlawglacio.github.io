@@ -4,6 +4,18 @@ layout: default
 
 ## some photos I took 
 
+&nbsp;
+
+![Frognerparken](./assets/img/frogner.png)
+*Frognerparken*
+
+&nbsp;
+
+![Chartres](./assets/img/folgefona.png)
+*Chatres and Saint-Léger-en-Yvelines*
+
+&nbsp;
+
 ![tree shadow](./assets/img/tree_shaow.jpg)
 *Treebeard*
 
@@ -20,17 +32,12 @@ layout: default
 &nbsp;
 
 ![Råkeneset](./assets/img/rakeneset.JPG)
-*Råkeneset, the well, the boat house, and the house*
+*Råkeneset, the well, the boat house, and the house (and the sea)*
 
 &nbsp;
 
 ![Sotra](./assets/img/sotra.jpg)
 *Midtsommer fisk*
-
-&nbsp;
-
-![In the Hall of the Mountain King](./assets/img/Alfotbreen.png)
-*In the Hall of the Mountain King*
 
 &nbsp;
 
@@ -41,6 +48,34 @@ layout: default
 
 ![Not Utrecht](./assets/img/groningent.png)
 *Can't you tell*
+
+&nbsp;
+
+![On set, apparently](./assets/img/folgefonaa.png)
+*Younger Dryas*
+
+&nbsp;
+
+![Solen](./assets/img/folgefonaaa.png)
+*Solen*
+
+&nbsp;
+
+![Tobias holding a pear](./assets/img/tobias.png)
+*Tobias holding a pear*
+
+&nbsp;
+
+![All souls](./assets/img/all_souls.png)
+*All Souls College, Oxford, has a big gate outside and acts like they don't want you to see inside (really, they do)*
+
+&nbsp;
+
+<!-- ![In the Hall of the Mountain King](./assets/img/Alfotbreen.png)
+*In the Hall of the Mountain King* -->
+
+![another tree shadow](./assets/img/tree_shadow.jpg)
+*Shadow of me taking a photo of a tree (also pictured)*
 
 <!-- ![cam ely](./assets/img/cam_ely.jpg)
 *Endless coloured ways* -->
