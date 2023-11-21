@@ -15,7 +15,7 @@ For [my PhD](https://doi.org/10.17863/CAM.90692) I obtained fibre-optic borehole
 
 Now, I use the internal age layering of the Greenland Ice Sheet, as recorded in [radar isochrons](https://doi.org/10.1002/2014JF003215), to better understand how the ice-sheet's dynamics have evolved over the last glacial cycle. This uses Englacial Layer Simulation Architecture (or ELSA) [isochron-tracing method](https://doi.org/10.5194/tc-15-4539-2021) as part of a great group here in Bergen. 
 
-On this site you can find [my publications](https://rlawglacio.github.io/publications) and maybe some tutorials if I get around to them!
+On this site you can find [my publications](./publications.html) and maybe some tutorials if I get around to them!
 
 I also host photos [here](./photos.html) so that I can stop using Instagram. 
 
