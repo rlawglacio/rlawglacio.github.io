@@ -4,6 +4,24 @@ layout: default
 
 ## some photos I took 
 
+![Bergen](./assets/img/Bergen.png)
+*Bergen*
+
+&nbsp;
+
+![Jondal](./assets/img/jondal.png)
+*Jondal*
+
+&nbsp;
+
+![Hardanger](./assets/img/different_chemicals.png)
+*Different chemicals*
+
+&nbsp;
+
+![Uskedalen](./assets/img/uskedalen.png)
+*Silkeveien i Uskedalen*
+
 &nbsp;
 
 ![Frognerparken](./assets/img/frogner.png)
@@ -31,8 +49,18 @@ layout: default
 
 &nbsp;
 
+![Hardanger](./assets/img/Hardanger.png)
+*Turn around, Hardanger!*
+
+&nbsp;
+
 ![Råkeneset](./assets/img/rakeneset.JPG)
 *Råkeneset, the well, the boat house, and the house (and the sea)*
+
+&nbsp;
+
+![Viaduct](./assets/img/viaduct.jpg)
+*Quietly returned*
 
 &nbsp;
 
@@ -75,7 +103,7 @@ layout: default
 *In the Hall of the Mountain King* -->
 
 ![another tree shadow](./assets/img/tree_shadow.jpg)
-*Shadow of me taking a photo of a tree (also pictured)*
+*Shadow of me taking a photo of a tree (tree also pictured)*
 
 <!-- ![cam ely](./assets/img/cam_ely.jpg)
 *Endless coloured ways* -->
