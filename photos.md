@@ -4,6 +4,11 @@ layout: default
 
 ## some photos I took 
 
+![Wind](./assets/img/wind.png)
+*vinden blåser, men vi ser den ikke*
+
+&nbsp;
+
 ![Bergen](./assets/img/Bergen.png)
 *Bergen*
 
