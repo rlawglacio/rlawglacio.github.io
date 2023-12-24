@@ -4,15 +4,20 @@ layout: default
 
 ## some photos I took 
 
+![Wind](./assets/img/skjolden.png)
+*Skjolden. If you look really hard you can see Wittgenstein's hut.*
+
+&nbsp;
+
 ![Wind](./assets/img/hillsareshadows.png)
 *In Memoriam A.H.H.*
 
 &nbsp;
 
-![Wind](./assets/img/wind.png)
+<!-- ![Wind](./assets/img/wind.png)
 *Vinden blåser, men vi ser den ikke*
 
-&nbsp;
+&nbsp; -->
 
 ![Bergen](./assets/img/Bergen.png)
 *Bergen. The hills are there, they just hinge on the sky*
