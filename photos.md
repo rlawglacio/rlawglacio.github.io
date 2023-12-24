@@ -4,13 +4,18 @@ layout: default
 
 ## some photos I took 
 
+![Wind](./assets/img/hillsareshadows.png)
+*In Memoriam A.H.H.*
+
+&nbsp;
+
 ![Wind](./assets/img/wind.png)
-*vinden blåser, men vi ser den ikke*
+*Vinden blåser, men vi ser den ikke*
 
 &nbsp;
 
 ![Bergen](./assets/img/Bergen.png)
-*Bergen*
+*Bergen. The hills are there, they just hinge on the sky*
 
 &nbsp;
 
@@ -65,7 +70,7 @@ layout: default
 &nbsp;
 
 ![Viaduct](./assets/img/viaduct.jpg)
-*Quietly returned*
+*Returned*
 
 &nbsp;
 
