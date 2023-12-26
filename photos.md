@@ -4,12 +4,22 @@ layout: default
 
 ## some photos I took 
 
-![Wind](./assets/img/skjolden.png)
-*Skjolden. If you look really hard you can see Wittgenstein's hut.*
+![Osterøy](./assets/img/osteroy.jpg)
+*The bridge from Osterøy*
 
 &nbsp;
 
-![Wind](./assets/img/hillsareshadows.png)
+![grain](./assets/img/grain.png)
+*Detail from Vestland*
+
+&nbsp;
+
+![Skjolden](./assets/img/skjolden.png)
+*Skjolden. If you look really hard you can just see Wittgenstein's hut.*
+
+&nbsp;
+
+![shaddow](./assets/img/hillsareshadows.png)
 *In Memoriam A.H.H.*
 
 &nbsp;
