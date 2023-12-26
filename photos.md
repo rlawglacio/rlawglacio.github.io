@@ -14,6 +14,11 @@ layout: default
 
 &nbsp;
 
+![Ulriken](./assets/img/ulriken.png)
+*December in Isdalen*
+
+&nbsp;
+
 ![Skjolden](./assets/img/skjolden.png)
 *Skjolden. If you look really hard you can just see Wittgenstein's hut.*
 
