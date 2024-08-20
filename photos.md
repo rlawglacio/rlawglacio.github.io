@@ -4,6 +4,9 @@ layout: default
 
 ## some photos I took 
 
+![Quoits](./assets/img/oakash.png)
+*Quotidian*
+
 ![Osterøy](./assets/img/osteroy.jpg)
 *The bridge from Osterøy*
 
