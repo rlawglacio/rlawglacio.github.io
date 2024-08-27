@@ -4,6 +4,9 @@ layout: default
 
 ## some photos I took 
 
+![Solene](./assets/img/solene.jpg)
+*Solene*
+
 ![Quoits](./assets/img/oakash.png)
 *Quotidian*
 
