@@ -4,6 +4,9 @@ layout: default
 
 ## some photos I took 
 
+![Coins for the eys](./assets/img/Penny.png)
+*Penelope*
+
 ![Solene](./assets/img/solene.jpg)
 *Solene*
 
