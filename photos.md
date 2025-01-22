@@ -4,14 +4,25 @@ layout: default
 
 ## some photos I took 
 
-![Coins for the eys](./assets/img/Penny.png)
+![is](./assets/img/vinteren.png)
+*Om vinteren*
+
+&nbsp;
+
+![Coins for the eyes](./assets/img/Penny.png)
 *Penelope*
+
+&nbsp;
 
 ![Solene](./assets/img/solene.jpg)
 *Solene*
 
+&nbsp;
+
 ![Quoits](./assets/img/oakash.png)
 *Quotidian*
+
+&nbsp;
 
 ![Osterøy](./assets/img/osteroy.jpg)
 *The bridge from Osterøy*
