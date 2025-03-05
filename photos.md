@@ -4,15 +4,21 @@ layout: default
 
 ## some photos I took 
 
+&nbsp;
+
 <figure>
-  <img src="./assets/img/oil.jpg" width="500" alt="Om vinteren">
+  <img src="./assets/img/oil.jpg" width="800" alt="Om vinteren">
   <figcaption><em>Let's play in oil</em></figcaption>
 </figure>
+
+&nbsp;
 
 <figure>
   <img src="./assets/img/stavanger.jpg" width="500" alt="Om vinteren">
   <figcaption><em>Stavanger</em></figcaption>
 </figure>
+
+&nbsp;
 
 ![is](./assets/img/vinteren.png)
 *Om vinteren*
