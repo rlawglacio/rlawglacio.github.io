@@ -7,14 +7,21 @@ layout: default
 &nbsp;
 
 <figure>
-  <img src="./assets/img/oil.jpg" width="800" alt="Om vinteren">
+  <img src="./assets/img/oakash2.png" width="800" alt="oak ash">
+  <figcaption><em>Oak and the ash, the old smoke stacks</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img src="./assets/img/oil.jpg" width="800" alt="oil play area">
   <figcaption><em>Let's play in oil</em></figcaption>
 </figure>
 
 &nbsp;
 
 <figure>
-  <img src="./assets/img/stavanger.jpg" width="500" alt="Om vinteren">
+  <img src="./assets/img/stavanger.jpg" width="500" alt="lykkeland">
   <figcaption><em>Stavanger</em></figcaption>
 </figure>
 
