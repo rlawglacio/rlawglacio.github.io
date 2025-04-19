@@ -17,7 +17,7 @@ Now, I use the internal age layering of the Greenland Ice Sheet, as recorded in 
 
 On this site you can find [my publications](./publications.html) and maybe some tutorials if I get around to them!
 
-I also host photos [here](./photos.html) so that I can stop using Instagram. 
+I also host photos [here](./photos_html.html) so that I can stop using Instagram. 
 
 [^1]: universitet -> university, universiteter -> universities, universitetet -> the university
 [^2]: well, learning to model it at first
