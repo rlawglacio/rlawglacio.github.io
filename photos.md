@@ -7,21 +7,45 @@ layout: default
 &nbsp;
 
 <figure>
-  <img src="./assets/img/oakash2.png" width="800" alt="oak ash">
+  <img 
+    src="./assets/img/resized/oakash2-800.png" 
+    srcset="
+      ./assets/img/resized/oakash2-400.png 400w,
+      ./assets/img/resized/oakash2-800.png 800w,
+      ./assets/img/resized/oakash2-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
   <figcaption><em>Oak and the ash, the old smoke stacks</em></figcaption>
 </figure>
 
 &nbsp;
 
 <figure>
-  <img src="./assets/img/oil.jpg" width="800" alt="oil play area">
+  <img 
+    src="./assets/img/resized/oil-800.jpg" 
+    srcset="
+      ./assets/img/resized/oil-400.jpg 400w,
+      ./assets/img/resized/oil-800.jpg 800w,
+      ./assets/img/resized/oil-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oil play area">
   <figcaption><em>Let's play in oil</em></figcaption>
 </figure>
 
 &nbsp;
 
 <figure>
-  <img src="./assets/img/stavanger.jpg" width="500" alt="lykkeland">
+  <img 
+    src="./assets/img/resized/stavanger-800.jpg" 
+    srcset="
+      ./assets/img/resized/stavanger-400.jpg 400w,
+      ./assets/img/resized/stavanger-800.jpg 800w,
+      ./assets/img/resized/stavanger-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="lykkeland">
   <figcaption><em>Stavanger</em></figcaption>
 </figure>
 
