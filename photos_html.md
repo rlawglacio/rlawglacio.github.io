@@ -8,6 +8,81 @@ layout: default
 
 <figure>
   <img 
+    src="./assets/img/resized/yellowredblue-800.png" 
+    srcset="
+      ./assets/img/resized/yellowredblue-400.png 400w,
+      ./assets/img/resized/yellowredblue-800.png 800w,
+      ./assets/img/resized/yellowredblue-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>The boats never get used, I think they're decoration</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/floyen-800.png" 
+    srcset="
+      ./assets/img/resized/floyen-400.png 400w,
+      ./assets/img/resized/floyen-800.png 800w,
+      ./assets/img/resized/floyen-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>Fløyen</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/detteher-800.png" 
+    srcset="
+      ./assets/img/resized/detteher-400.png 400w,
+      ./assets/img/resized/detteher-800.png 800w,
+      ./assets/img/resized/detteher-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>Dette her</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/me-800.png" 
+    srcset="
+      ./assets/img/resized/me-400.png 400w,
+      ./assets/img/resized/me-800.png 800w,
+      ./assets/img/resized/me-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="me">
+  <figcaption><em>Ah herregud</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/circle-800.png" 
+    srcset="
+      ./assets/img/resized/circle-400.png 400w,
+      ./assets/img/resized/circle-800.png 800w,
+      ./assets/img/resized/circle-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>Old circle</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
     src="./assets/img/resized/oakash2-800.png" 
     srcset="
       ./assets/img/resized/oakash2-400.png 400w,
@@ -48,22 +123,6 @@ layout: default
     alt="lykkeland">
   <figcaption><em>Stavanger</em></figcaption>
 </figure>
-
-&nbsp;
-
-<figure>
-  <img 
-    src="./assets/img/resized/vinteren-800.png" 
-    srcset="
-      ./assets/img/resized/vinteren-400.png 400w,
-      ./assets/img/resized/vinteren-800.png 800w,
-      ./assets/img/resized/vinteren-1200.png 1200w
-    " 
-    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
-    alt="is">
-  <figcaption><em>Om vinteren</em></figcaption>
-</figure>
-
 
 &nbsp;
 
@@ -350,22 +409,6 @@ layout: default
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="Sula">
   <figcaption><em>Sula and islands further north</em></figcaption>
-</figure>
-
-
-&nbsp;
-
-<figure>
-  <img 
-    src="./assets/img/resized/Hardanger-800.png" 
-    srcset="
-      ./assets/img/resized/Hardanger-400.png 400w,
-      ./assets/img/resized/Hardanger-800.png 800w,
-      ./assets/img/resized/Hardanger-1200.png 1200w
-    " 
-    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
-    alt="Hardanger">
-  <figcaption><em>Turn around, Hardanger!</em></figcaption>
 </figure>
 
 
