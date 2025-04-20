@@ -23,14 +23,14 @@ layout: default
 
 <figure>
   <img 
-    src="./assets/img/resized/floyen-800.png" 
+    src="./assets/img/resized/Floyen-800.png" 
     srcset="
-      ./assets/img/resized/floyen-400.png 400w,
-      ./assets/img/resized/floyen-800.png 800w,
-      ./assets/img/resized/floyen-1200.png 1200w
+      ./assets/img/resized/Floyen-400.png 400w,
+      ./assets/img/resized/Floyen-800.png 800w,
+      ./assets/img/resized/Floyen-1200.png 1200w
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
-    alt="oak ash">
+    alt="Fløyen">
   <figcaption><em>Fløyen</em></figcaption>
 </figure>
 
