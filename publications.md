@@ -4,7 +4,11 @@ layout: default
 
 ## Publications 
 
-Anja Løkkegaard, Kenneth Mankoff, Christian Zdanowicz, Gary D. Clow, Martin P. Lüthi, Samuel Doyle, Henrik Thomsen, David Fisher, Joel Harper, Andy Aschwanden, Bo M. Vinther, Dorthe Dahl-Jensen, Harry Zekollari, Toby Meierbachtol, Ian McDowell, Neil Humphrey, Anne Solgaard, Nanna B. Karlsson, Shfaqat Abbas Khan, Benjamin Hills, **Robert Law**, Bryn Hubbard, Poul Christoffersen, Mylène Jacquemart, Robert S. Fausto, and William T. Colgan (2023). **Greenland and Canadian Arctic ice temperature profiles**. *The Cryosphere*. [https://doi.org/10.5194/tc-17-3829-2023](https://doi.org/10.5194/tc-17-3829-2023).
+Craig R. Walton , Jessica K. Rigley, Alexander Lipp, **Robert Law**, Martin D Suttle, Maria Schönbächler, Mark Wyatt, & Oliver Shorttle (2024). **Cosmic dust fertilization of glacial prebiotic chemistry on early Earth**. *Nature Astronomy*. [https://doi.org/10.1038/s41550-024-02212-z](https://doi.org/10.1038/s41550-024-02212-z).
+
+Therese Rieckh, Andreas Born, Alexander Robinson, **Robert Law**, & Gerrit Gülle (2024). **Design and performance of ELSA v2. 0: an isochronal model for ice-sheet layer tracing**. *Geoscientific Model Development*. [https://doi.org/10.5194/gmd-17-6987-2024](https://doi.org/10.5194/gmd-17-6987-2024). 
+
+Anja Løkkegaard, Kenneth Mankoff, Christian Zdanowicz, Gary D. Clow, Martin P. Lüthi, Samuel Doyle, Henrik Thomsen, David Fisher, Joel Harper, Andy Aschwanden, Bo M. Vinther, Dorthe Dahl-Jensen, Harry Zekollari, Toby Meierbachtol, Ian McDowell, Neil Humphrey, Anne Solgaard, Nanna B. Karlsson, Shfaqat Abbas Khan, Benjamin Hills, **Robert Law**, Bryn Hubbard, Poul Christoffersen, Mylène Jacquemart, Robert S. Fausto, & William T. Colgan (2023). **Greenland and Canadian Arctic ice temperature profiles**. *The Cryosphere*. [https://doi.org/10.5194/tc-17-3829-2023](https://doi.org/10.5194/tc-17-3829-2023).
 
 **Robert Law**, Poul Christoffersen, Emma Mackie, Samuel Cook, Marianne Haseloff, & Olivier Gagliardini (2023). **Complex motion of Greenland Ice Sheet outlet glaciers with basal temperate ice**. *Science Advances*, eabq518. [https://www.science.org/doi/10.1126/sciadv.abq5180](https://www.science.org/doi/10.1126/sciadv.abq5180).
 
@@ -16,10 +20,16 @@ Bryn Hubbard, Poul Christoffersen, Samuel H. Doyle, Thomas R. Chudley, Charlotte
 
 **Robert Law**, Poul Christoffersen, Bryn Hubbard, Samuel H. Doyle, Thomas R. Chudley, Charlotte M. Schoonman, Marion Bougamont, Bas des Tombe, Bart Schilperoort, Cedric Kechavarzi, Adam Booth, & Tun Jan Young (2021). **Thermodynamics of a fast-moving Greenlandic outlet glacier revealed by fiber-optic distributed temperature sensing**. *Science Advances*, 7(20), eabe7136. [https://doi.org/10.1126/sciadv.abe7136](https://doi.org/10.1126/sciadv.abe7136).
 
-Adam Booth, Poul Christoffersen, Charlotte Schoonman, Andy Clarke, Bryn Hubbard, **Robert Law**, Samuel Doyle, Thomas Chudley, & Athena Chalari (2020). **Distributed Acoustic Sensing (DAS) of Seismic Properties in a Borehole drilled on a Fast-Flowing Greenlandic Outlet Glacier**. *Geophysical Research Letters*. [https://doi.org/10.1029/2020GL088148](https://doi.org/10.1029/2020GL088148).
+Adam Booth, Poul Christoffersen, Charlotte Schoonman, Andy Clarke, Bryn Hubbard, **Robert Law**, Samuel H. Doyle, Thomas R. Chudley, & Athena Chalari (2020). **Distributed Acoustic Sensing (DAS) of Seismic Properties in a Borehole drilled on a Fast-Flowing Greenlandic Outlet Glacier**. *Geophysical Research Letters*. [https://doi.org/10.1029/2020GL088148](https://doi.org/10.1029/2020GL088148).
 
 **Robert Law**, Neil Arnold, Corinne Benedek, Marco Tedesco, Alison Banwell, & Ian Willis (2020). **Over-winter persistence of supraglacial lakes on the Greenland Ice Sheet: results and insights from a new model**. *Journal of Glaciology*. [https://doi.org/10.1017/jog.2020.7](https://doi.org/10.1017/jog.2020.7).
 
 **Robert Law** & Mark Allen (2020). **Diachronous Tibetan Plateau landscape evolution derived from lava field geomorphology**. *Geology*, 48(3), 263–267. [https://doi.org/10.1130/g47196.1](https://doi.org/10.1130/g47196.1).
+
+## Preprints
+
+**Robert Law**, Andreas Born, Philipp Voigt, Joseph A. MacGregor, & Claire Marie Guimond (2024). **Exploring the conditions conducive to convection within the Greenland Ice Sheet**. *arXiv preprint/The Cryosphere Discussions*. [https://doi.org/https://doi.org/10.48550/arXiv.2411.18779](https://doi.org/https://doi.org/10.48550/arXiv.2411.18779).
+
+**Robert Law**, David Chandler, & Andreas Born (2024). **What is glacier sliding?**. *arXiv preprint*. [https://doi.org/10.48550/arXiv.2407.13577](https://doi.org/10.48550/arXiv.2407.13577.)
 
 [back](./)
