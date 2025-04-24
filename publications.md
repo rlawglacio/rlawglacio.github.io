@@ -4,7 +4,7 @@ layout: default
 
 ## Publications 
 
-**Robert Law** (2025). **Rapid hydrofracture of icy moon shells: insights from glaciology**. *JGR Planets*, e2024JE008403. [https://doi.org/10.1029/2024JE008403](https://doi.org/10.1029/2024JE008403).
+**Robert Law** (2025). **Rapid hydrofracture of icy moon shells: insights from glaciology**. *JGR Planets*, e2024JE008403. [https://doi.org/10.1029/2024JE008403](https://doi.org/10.1029/2024JE008403). [**.pdf here**](./assets/pdf/JGRPlanets2025.pdf)
 
 Craig R. Walton , Jessica K. Rigley, Alexander Lipp, **Robert Law**, Martin D Suttle, Maria Schönbächler, Mark Wyatt, & Oliver Shorttle (2024). **Cosmic dust fertilization of glacial prebiotic chemistry on early Earth**. *Nature Astronomy*. [https://doi.org/10.1038/s41550-024-02212-z](https://doi.org/10.1038/s41550-024-02212-z).
 
