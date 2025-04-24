@@ -7,17 +7,11 @@ image: cambridge-1.jpg
 
 <!--![again2](/assets/img/rob-1.jpg)-->
 
-**Hei**, I'm Rob, Postodoctoral Research Fellow at the University of Bergen (Universitetet i Bergen på norsk[^1]). Previously, I was a PhD candidate at the Scott Polar Research Institue at the University of Cambridge. 
+**Hei**, I'm Rob, presently at the University of Bergen but soon to start an independent research fellowship at ETH Zurich. Before that I was a PhD candidate at the Scott Polar Research Institue, University of Cambridge.
 
 My work uses numerical modelling and observations to disentangle how ice sheets move. In particular, I'm interested in the thermal state and basal motion mechanics of the Greenland Ice Sheet. 
 
-For [my PhD](https://doi.org/10.17863/CAM.90692) I obtained fibre-optic borehole recordings from a fast-moving outlet glacier, with [results](https://doi.org/10.1126/sciadv.abe7136) showing unexcpected variations in temperate layer thickness amongst other fun stuff. I spent the next couple of years modelling this[^2],  which uncovered some [neat behaviour](https://www.science.org/doi/10.1126/sciadv.abq5180) behind these initially inocous discrepancies. 
+This site is largely to host [photos](./photos_html.html) so that I don't have to use social media owned by billionaires (instead I'm using GitHub which is owned by Microsoft which is owned by an exciting array of institutional investors, yay).
 
-Now, I use the internal age layering of the Greenland Ice Sheet, as recorded in [radar isochrons](https://doi.org/10.1002/2014JF003215), to better understand how the ice-sheet's dynamics have evolved over the last glacial cycle. This uses Englacial Layer Simulation Architecture (or ELSA) [isochron-tracing method](https://doi.org/10.5194/tc-15-4539-2021) as part of a great group here in Bergen. 
+But, you can also find [my publications](./publications.html) and maybe some tutorials if I get around to them.
 
-On this site you can find [my publications](./publications.html) and maybe some tutorials if I get around to them!
-
-I also host photos [here](./photos_html.html) so that I can stop using Instagram. 
-
-[^1]: universitet -> university, universiteter -> universities, universitetet -> the university
-[^2]: well, learning to model it at first
