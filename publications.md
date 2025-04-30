@@ -30,6 +30,8 @@ Adam Booth, Poul Christoffersen, Charlotte Schoonman, Andy Clarke, Bryn Hubbard,
 
 ## Preprints
 
+Sjur Barndon, **Robert Law**, Andreas Born, Thomas Chudley, & Stefanie Brechtelsbauer (2025). **Ice motion acorss incised fjord landscapes**. *The Cryosphere Discussions*. [https://doi.org/10.5194/egusphere-2025-1304](https://doi.org/10.5194/egusphere-2025-1304).
+
 **Robert Law**, Andreas Born, Philipp Voigt, Joseph A. MacGregor, & Claire Marie Guimond (2024). **Exploring the conditions conducive to convection within the Greenland Ice Sheet**. *arXiv preprint/The Cryosphere Discussions*. [https://doi.org/https://doi.org/10.48550/arXiv.2411.18779](https://doi.org/https://doi.org/10.48550/arXiv.2411.18779).
 
 **Robert Law**, David Chandler, & Andreas Born (2024). **What is glacier sliding?**. *arXiv preprint*. [https://doi.org/10.48550/arXiv.2407.13577](https://doi.org/10.48550/arXiv.2407.13577.)
