@@ -244,11 +244,11 @@ With topptur, you are more likely to be in avalanche terrain, though it's surpri
 
 <figure>
   <img 
-    src="./assets/img/resized/topptur3-800.jpeg" 
+    src="./assets/img/resized/topptur3-800.jpg" 
     srcset="
-      ./assets/img/resized/topptur3-400.jpeg 400w,
-      ./assets/img/resized/topptur3-800.jpeg 800w,
-      ./assets/img/resized/topptur3-1200.jpeg 1200w
+      ./assets/img/resized/topptur3-400.jpg 400w,
+      ./assets/img/resized/topptur3-800.jpg 800w,
+      ./assets/img/resized/topptur3-1200.jpg 1200w
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="Kart">
