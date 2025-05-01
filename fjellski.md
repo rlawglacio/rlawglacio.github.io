@@ -130,6 +130,19 @@ You could book lessons, but I think for langrenn and fjell, it's also just as we
 
 When you are down, you will feel very immobile. To get back up, try to get both skis under your centre of gravity, and use your poles to get yourself squatted, then standing. If you use your hands these will just go into the snow when you put weight on them. Make sure you're also aligned across the slope, or you will just immediately fall over again!
 
+<figure>
+  <img 
+    src="./assets/img/resized/fall-800.JPEG" 
+    srcset="
+      ./assets/img/resized/fall-400.JPEG 400w,
+      ./assets/img/resized/fall-800.JPEG 800w,
+      ./assets/img/resized/fall-1200.JPEG 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="I fell over">
+  <figcaption><em>Happens to the best of us. </em></figcaption>
+</figure>
+
 #### **Dangers**
 
 Before we get into the actual skiing it's important to say: skiing can be dangerous, and people die doing this every year. The only real risk from skiing very close to a cabin on the flat is torn ligaments, twisted joints etc., but things can quickly escalate. I'm not a safety professional, but here are some key things to be wary of:
