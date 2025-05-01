@@ -13,5 +13,7 @@ My work uses numerical modelling and observations to disentangle how ice sheets 
 
 This site is largely to host [photos](./photos_html.html) so that I don't have to use social media owned by billionaires (instead I'm using GitHub which is owned by Microsoft which is owned by an exciting array of institutional investors, yay).
 
-But, you can also find [my publications](./publications.html) and maybe some tutorials if I get around to them.
+[Here](./fjellski.md) is a guide to skiing and some hiking in western Norway.
+
+And, my publications can be found [here](./publications.html).
 
