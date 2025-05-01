@@ -22,6 +22,19 @@ Well, you have three options which, unfortunately, require three different types
 
 **Langrennsski (cross-country skiing)**: This is what most people think of when they think of skiing in Norway. You attach spindly lightweight skis to your feet, find a track, have a terrifying time going downhill and a workout going up. You will get absolutely left in the dust by a 16-year-old practising their skating.
 
+<figure>
+  <img 
+    src="./assets/img/resized/pole-800.png" 
+    srcset="
+      ./assets/img/resized/pole-400.png 400w,
+      ./assets/img/resized/pole-800.png 800w,
+      ./assets/img/resized/pole-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Langrenn">
+  <figcaption><em>Ja ja, ok, but he got a new one literally seconds later.</em></figcaption>
+</figure>
+
 **Fjellski (mountain skiing)**: Fjellski has my heart. I had not heard of this before moving to Norway, but these are the more robust older sibling to langrennsski, with steel edges so that you can (at least in theory) reduce your speed down a hill. These are built for fairly long distances going gently up and down away from the prepared tracks. If you were skiing to the South Pole, you would use these skis.
 
 <figure>
@@ -62,9 +75,9 @@ I'm putting this towards the top even if it relies on some of the below as this 
 
 There are some great websites out there, but they're not always super well advertised:
 
-**ut.no**: This is (I think?) run by **DNT** (Den Norske Turistforening). On the kart tab you will find info about all the marked trails in Norway, including the skiing ones. You can also see all of the cabins, both DNT and independent. It has really nice pictures for these.
+**[ut.no](https://ut.no/)**: This is (I think?) run by **DNT** (Den Norske Turistforening). On the kart tab you will find info about all the marked trails in Norway, including the skiing ones. You can also see all of the cabins, both DNT and independent. It has really nice pictures for these.
 
-**varsom.no**: Primarily this is used for information about avalanches, but you'll also find flood, landslide, etc. info here. [The map](https://www.varsom.no/en/avalanches/avalanche-warnings/) tab on the avalanche page is the most useful part. Follow their advice on what the ratings mean, and take a course if you're unsure.
+**[varsom.no](https://varsom.no/)**: Primarily this is used for information about avalanches, but you'll also find flood, landslide, etc. info here. [The map](https://www.varsom.no/en/avalanches/avalanche-warnings/) tab on the avalanche page is the most useful part. Follow their advice on what the ratings mean, and take a course if you're unsure.
 
 **[Copernicus](https://browser.dataspace.copernicus.eu/)**: This is a super useful hack for checking snow conditions from recent satellite imagery. You could try something like [senorge.no](https://www.senorge.no/), which has a proper snow model, but in my opinion there's either enough snow to ski, or not enough, and you can work that out by seeing if there are lots of rock bands visible in satellite imagery. This is particularly useful for checking if a cabin is accessible in spring without requiring skis.
 
@@ -72,11 +85,11 @@ There are some great websites out there, but they're not always super well adver
 
 **[Glacier atlas](https://temakart.nve.no/tema/breatlas)**: This is just a neat and well-put-together tool. It will show you where all the glaciers are in Norway, including the really tiny ones.
 
-**westcoastpeaks.com**: And its [continuation](https://fjordpeaks.com/) are great for primarily summer hiking info. Also [Scandinavian Mountains](https://www.scandinavianmountains.com/?utm_content=link4&utm_campaign=articles_id_10153&utm_medium=articles_post&utm_source=ukclimbing) site if you are after 2,000 m tops.
+**[westcoastpeaks.com](westcoastpeaks.com)**: And its [continuation](https://fjordpeaks.com/) are great for primarily summer hiking info. Also [Scandinavian Mountains](https://www.scandinavianmountains.com/?utm_content=link4&utm_campaign=articles_id_10153&utm_medium=articles_post&utm_source=ukclimbing) site if you are after 2,000 m tops.
 
 **Services**
 
-**DNT**: The big one, Den Norske Turistforening. They don't advertise outside of Norway, but they do a fantastic job of looking after hytter (cabins) in remote places. Visit them at dnt.no, or drop in to their store in Bergen. [DNT membership](https://www.dnt.no/medlem/) is a very good idea if you're going on their trips or using the cabins. The cabins come in three flavours:
+**DNT**: The big one, Den Norske Turistforening. They don't advertise outside of Norway, but they do a fantastic job of looking after hytter (cabins) in remote places. Visit them at [dnt.no](dnt.no), or drop in to their store in Bergen. [DNT membership](https://www.dnt.no/medlem/) is a very good idea if you're going on their trips or using the cabins. The cabins come in three flavours:
 
 - Unserviced -- the most basic, but still oh so much better than UK bothies. In these you will find comfortable beds, gas for cooking, and wood for heating.
 
@@ -86,7 +99,7 @@ There are some great websites out there, but they're not always super well adver
 
 For all of these, remember to bring your own sleeping liner.
 
-**Dele**: This is a car-share service based in Bergen and Trondheim. It's amazing that this exists and it's a great resource. Prices are reasonable and people leave the cars responsibly clean after use (that's up to you, too!). This makes a lot of sense if you live here. Visit dele.no for more.
+**Dele**: This is a car-share service based in Bergen and Trondheim. It's amazing that this exists and it's a great resource. Prices are reasonable and people leave the cars responsibly clean after use (that's up to you, too!). This makes a lot of sense if you live here. Visit [dele.no](dele.no) for more.
 
 #### **Where to get skis**
 
@@ -127,6 +140,19 @@ Following people is not necessarily a good idea. Trust your own instincts if you
 
 **Avalanches**: Absolutely not to be taken lightly. But these can be largely avoided by **sticking to low-angled slopes away from runoff zones**. [ut.no/kart](https://ut.no/kart#8.95/60.749/6.2438) is a great resource for this. Go to layers and turn on bratthets- og utløpsområdekart. Don't go in anything marked green, yellow, orange, red, or blue, and you're going to be fairly safe, with a lot of super fun mountains still to explore. Slopes below 27° are much less likely to have sustained avalanche activity (non-coloured), while the blue areas mark where large avalanches could potentially run into. *I think* that the ut.no kart is fairly conservative, that is, I've never felt sketchy in an area marked safe on ut.no/kart. But, as with everything here, I am not an expert, and this is not a guarantee.
 
+<figure>
+  <img 
+    src="./assets/img/resized/mapski-800.png" 
+    srcset="
+      ./assets/img/resized/mapski-400.png 400w,
+      ./assets/img/resized/mapski-800.png 800w,
+      ./assets/img/resized/mapski-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Kart">
+  <figcaption><em>ut.no/kart screenshot, showing a possible route up Svartenosi, near Voss. </em></figcaption>
+</figure>
+
 Personally, I stick almost exclusively to safe slopes. I am simply not a good enough skier that I have a burning desire to venture into steeper slopes, and knowing I'm in potentially avalanche terrain gives me the heebie-jeebies. If you are going into avalanche terrain, **you will need avalanche gear** and you should probably **take an avalanche course** for the safety of yourself and those who might need rescuing. This post is not an avalanche safety post. The best I can do is direct you to something like [this](https://www.rei.com/learn/expert-advice/avalanche-safety-gear.html) if you want to find out more.
 
 **General bodily harm**: Falling over in awkward ways can lead to injury, of course, and generally scales with the speed at which your body hits something, mitigated somewhat by the softness of the snow. Watch out, and be careful. Helmets are very much recommended for topptur. If you're going fast and [tomahawk](https://www.youtube.com/watch?v=jWrNtGl7VYs), having something on your noggin will be a help. People doing langrennsski and fjellski generally don't wear helmets (I don't, either), but I have a friend who got a bad concussion from a fjellski fall. If you're worried about this, wear a helmet and to helvete what people think about it.
@@ -147,7 +173,20 @@ Otherwise, you can go to [Geilo](https://www.geilo.com/en/vestlia-resort), also 
 
 Locally and without hire, there are the routes up Fløyen when the conditions are in. This can be really nice, there are good vibes going up the funicular when everyone in it is looking forward to a good ski. And, unlike in Oslo (or so I've heard), people are generally very nice and accommodating if you're slow or falling over a lot.
 
-Further afield there are routes at [Gullbotn](https://bof.no/lysloypen-og-varmestuen-pa-gullbotn/) about 40 mins away, or [Kvamskogen](https://kvamskogen.no/wp-content/uploads/2018/02/L%C3%B8ypekart_kvamslkogen.pdf) a bit over an hour away, but both require a car.
+Further afield there are routes at [Gullbotn](https://bof.no/lysloypen-og-varmestuen-pa-gullbotn/) about 40 mins away, or [Kvamskogen](https://kvamskogen.no/wp-content/uploads/2018/02/L%C3%B8ypekart_kvamslkogen.pdf) a bit over an hour away. You can reach them by bus, but it's not so great for an evening. Watch you with bus timings, you don't want to get get stranded in -20!
+
+<figure>
+  <img 
+    src="./assets/img/resized/kvamskogen-800.jpeg" 
+    srcset="
+      ./assets/img/resized/kvamskogen-400.jpeg 400w,
+      ./assets/img/resized/kvamskogen-800.jpeg 800w,
+      ./assets/img/resized/kvamskogen-1200.jpeg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Kart">
+  <figcaption><em>Standard påske view in Kvamskogen. </em></figcaption>
+</figure>
 
 You shouldn't really venture off prepared tracks with langrenn, though it is possible. Many introductory langrennsski have fish scale bases. These will provide some grip going uphill, which is good. Otherwise you enter the exciting world of waxes (see Waxes and skins header).
 
@@ -166,6 +205,19 @@ When you have your fjellski legs, you may want to embark on your first DNT trip.
 As DNT trips are often a bit adventurous, you could also try to find an experienced friend to go on a shorter trip such as [this](https://ut.no/kart/rutebeskrivelse/13394406/fra-smabrekke-til-gullhorgabu#12.58/60.51431/5.98709) which is 'only' 6 km and 300 m height gain.
 
 From there, more possibilities open up. After this I did my first solo trip (to [Grindaflethytta](https://ut.no/kart/hytte/10363/grindaflethytta#8.95/60.749/6.2438)) and felt confident enough to sign up for a trip over Jostedalsbreen, though that was still a big struggle and learning experience[^2].
+
+<figure>
+  <img 
+    src="./assets/img/resized/breen-800.jpg" 
+    srcset="
+      ./assets/img/resized/breen-400.jpg 400w,
+      ./assets/img/resized/breen-800.jpg 800w,
+      ./assets/img/resized/breen-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Jostedalsbreen">
+  <figcaption><em>Over Jostedalsbreen </em></figcaption>
+</figure>
 
 As for equipment, aside from the skis you will need boots, poles, and other safety equipment (see Dangers). I first bought some very retro Alfa boots from finn, before progressing to a fancy pair of Gore-Tex Alfas with [built-in gaiters](https://www.alfa.no/en-NO/outback-aps-w-2). The built-in gaiters do work great, but you can get away with ones that look more like regular hiking boots and then add gaiters if needed, and these will be nice if you're skiing in spring when there is no powder and it's warm.
 
@@ -190,11 +242,26 @@ So, you have decided to take things up a notch. For me, this took two years of l
 
 With topptur, you are more likely to be in avalanche terrain, though it's surprisingly easy to avoid it, with the difficulty then being finding people to join who are happier on more mellow slopes. If so, try to go with people who are more experienced than you, or join a DNT trip -- as with the fjellski DNT trips though, make sure you're good enough first that you won't be a drag on everyone else. You don't need to be an elite athlete, but you should probably have tried to skin up and go down a handful of times.
 
+<figure>
+  <img 
+    src="./assets/img/resized/topptur3-800.jpeg" 
+    srcset="
+      ./assets/img/resized/topptur3-400.jpeg 400w,
+      ./assets/img/resized/topptur3-800.jpeg 800w,
+      ./assets/img/resized/topptur3-1200.jpeg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Kart">
+  <figcaption><em>On the way down from Iendefjell, Kvamskogen. </em></figcaption>
+</figure>
+
 My first topptur was just going 150 m above the lift at a resort, and for me that was already great. Then I did a couple more trips with friends, and got the hang of it without too much trouble, helped along by experience in fjellski. If you can go downhill without crashing every two minutes on fjellski, it's likely topptur will be a breeze.
 
 Unlike fjellski, topptur is suited to having minimal switches between up and down. It's a lot more faff to take skins off and on again, and long flat stretches are a bit awkward. Norwegians also frequently don't go all the way to the very top — they'll get within a hundred metres of the top, but if it won't be good for skiing, or has a short downhill section first, they'll just turn around. For me, this is not the way to go; I like thinking of topptur as turbocharged hiking and getting a top is always nice, but it's something to be aware of.
 
 As for equipment, you will need expensive skis and boots. I got my boots through some previous field work (hurray), but the skis were around 4,500 NOK including skins and bindings from finn. These serve me great, but you would be looking at upwards of 10,000 NOK to get new skis alone. A guide [like this](https://www.sport-conrad.com/blog/en/ski-touring-guide-find-the-best-skis-for-your-next-ski-tour/) will give you a good introduction.
+
+There are good resources for routes. [For example](https://www.backcountryskiing.org/country-guide/norway), though you are well off doing your own research. I've been lucky enough to go with people more experienced than myself most of the time, who then picked the routes. I did go up Storhaugane and Skomanosi from Hallingskeid on my own though, both of which were great and avoided avalanche terrain.
 
 #### **Waxes and skins**
 
