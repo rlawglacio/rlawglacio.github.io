@@ -201,7 +201,7 @@ Further afield there are routes at [Gullbotn](https://bof.no/lysloypen-og-varmes
   <figcaption><em>Standard påske view in Kvamskogen. </em></figcaption>
 </figure>
 
-You shouldn't really venture off prepared tracks with langrenn, though it is possible. Many introductory langrennsski have fish scale bases. These will provide some grip going uphill, which is good. Otherwise you enter the exciting world of waxes (see Waxes and skins header).
+You shouldn't really venture off prepared tracks with langrenn, though it is possible. Many introductory langrennsski have fish scale bases or perma attached narrow skins. These will provide some grip going uphill, which is good. Otherwise you enter the exciting world of waxes (see Waxes and skins header).
 
 The boots on langrennsski are very lightweight and can feel flimsy. They will also let a lot of snow in if you do venture off the tracks into powder. Personally, I am less of a fan of langrenn for these reasons -- it can all feel a bit artificial and contrived, but it's the way to go if you want to be the next Klæbo ([Klæbo brostep supercut](https://www.youtube.com/watch?v=_Qo2QTgXs70)). Which brings us to...
 
@@ -319,6 +319,22 @@ These are the main ones you might encounter:
 **Rotten**: Snow that's definitely on the way out, with cavities beneath it where it's melting from the ground up. In moderation, this can be funny, but it gets to a point where it's too much.
 
 **Påskesnø**: Or 'Easter snow'. This is great! Really buttery snow that's started melting but is nowhere near rotten yet. Really good for intermediates and beginners alike, and for effortlessly covering long distances.
+
+#### **Places you might hear about**
+
+There are a lot of options for skiing around Bergen, and it can get confusing hearing about them all. Here are some brief descriptions of the main ones:
+
+**Voss**: Accesible by a relatively short train journey. Home to the Voss resort and the location for the Bjerknes getaway the last few years. A large inland town by Norwegian standards. 
+
+**Finse**: Further up along the Bergen to Oslo line. No shops, some fancy modern cabins, some not so fancy old cabins, a button lift, a research station, a big lake, a big glacier and not a lot else. Used for training for polar expeditions back in the day.
+
+**Gullbotn**: Not so far from Bergen by bus or car and home to a lysløper (flood lit skiing track). Also where you'd start for Gullfjellet, probably. 
+
+**Sogndalsføra**: The main town in Sognefjord. Nice enough place, but you're probably there to explore the nearby mountains, Jostedal being a main attraction. 
+
+**Kvamskogen**: More cabins than you can shake a stick at, and good fjellski, topptur, and langrenn possibilities. Also a couple of very small ski resorts which can be fun. It's on the way from Bergen to ...
+
+**Norheimsund**: Which, along with **Øystese** next door are the largest settlements in (the upper part of?) Hardangerfjord. Less skiing direct from here, as the fjord sides are very steep, and most people like to start a bit higher up.
 
 Thanks for reading. Do drop me an email if you found this useful — always good to get feedback : )
 
