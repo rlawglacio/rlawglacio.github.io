@@ -8,6 +8,66 @@ layout: default
 
 <figure>
   <img 
+    src="./assets/img/resized/uffington-800.png" 
+    srcset="
+      ./assets/img/resized/uffington.png 400w,
+      ./assets/img/resized/uffington-800.png 800w,
+      ./assets/img/resized/uffington-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Or just an old horse">
+  <figcaption><em>Poor old horse</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/mywaydark-800.png" 
+    srcset="
+      ./assets/img/resized/mwaydark-400.png 400w,
+      ./assets/img/resized/mwaydark-800.png 800w,
+      ./assets/img/resized/mwaydark-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Brum">
+  <figcaption><em>Near Birmingham</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/pylon-800.png" 
+    srcset="
+      ./assets/img/resized/pylon-400.png 400w,
+      ./assets/img/resized/pylon-800.png 800w,
+      ./assets/img/resized/pylon-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Electricity or something">
+  <figcaption><em>Electricity or something</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/junction-800.png" 
+    srcset="
+      ./assets/img/resized/junction-400.png 400w,
+      ./assets/img/resized/junction-800.png 800w,
+      ./assets/img/resized/junction-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="which one">
+  <figcaption><em>Junction</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
     src="./assets/img/resized/yellowredblue-800.png" 
     srcset="
       ./assets/img/resized/yellowredblue-400.png 400w,
