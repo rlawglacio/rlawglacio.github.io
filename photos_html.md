@@ -16,22 +16,7 @@ layout: default
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="Or just an old horse">
-  <figcaption><em>Poor old horse</em></figcaption>
-</figure>
-
-&nbsp;
-
-<figure>
-  <img 
-    src="./assets/img/resized/mywaydark-800.png" 
-    srcset="
-      ./assets/img/resized/mwaydark-400.png 400w,
-      ./assets/img/resized/mwaydark-800.png 800w,
-      ./assets/img/resized/mwaydark-1200.png 1200w
-    " 
-    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
-    alt="Brum">
-  <figcaption><em>Near Birmingham</em></figcaption>
+  <figcaption><em>_</em></figcaption>
 </figure>
 
 &nbsp;
@@ -199,6 +184,20 @@ layout: default
   <figcaption><em>Penelope</em></figcaption>
 </figure>
 
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/mywaydark-800.png" 
+    srcset="
+      ./assets/img/resized/mwaydark-400.png 400w,
+      ./assets/img/resized/mwaydark-800.png 800w,
+      ./assets/img/resized/mwaydark-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Brum">
+  <figcaption><em>Near Birmingham</em></figcaption>
+</figure>
 
 &nbsp;
 
