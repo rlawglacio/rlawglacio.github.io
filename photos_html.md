@@ -8,6 +8,36 @@ layout: default
 
 <figure>
   <img 
+    src="./assets/img/resized/eidsvag-800.jpg" 
+    srcset="
+      ./assets/img/resized/eidsvag-400.jpg 400w,
+      ./assets/img/resized/eidsvag-800.jpg 800w,
+      ./assets/img/resized/eidsvag-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Eidsvag">
+  <figcaption><em>Eidsvåg E39</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/fjellski3-800.jpg" 
+    srcset="
+      ./assets/img/resized/fjellski3-400.jpg 400w,
+      ./assets/img/resized/fjellski3-800.jpg 800w,
+      ./assets/img/resized/fjellski3-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Voss">
+  <figcaption><em>Somewhere near Voss in January</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
     src="./assets/img/resized/uffington-800.png" 
     srcset="
       ./assets/img/resized/uffington.png 400w,
