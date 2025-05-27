@@ -8,6 +8,36 @@ layout: default
 
 <figure>
   <img 
+    src="./assets/img/resized/utrecht-800.png" 
+    srcset="
+      ./assets/img/resized/utrecht-400.png 400w,
+      ./assets/img/resized/utrecht-800.png 800w,
+      ./assets/img/resized/utrecht-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Utrecht">
+  <figcaption><em>Utrecht on a misty morning</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/canal-800.png" 
+    srcset="
+      ./assets/img/resized/canal-400.png 400w,
+      ./assets/img/resized/canal-800.png 800w,
+      ./assets/img/resized/canal-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Canal">
+  <figcaption><em>Don't crash into the bridge</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
     src="./assets/img/resized/eidsvag-800.jpg" 
     srcset="
       ./assets/img/resized/eidsvag-400.jpg 400w,
