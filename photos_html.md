@@ -8,6 +8,21 @@ layout: default
 
 <figure>
   <img 
+    src="./assets/img/resized/wire-800.png" 
+    srcset="
+      ./assets/img/resized/wire-400.png 400w,
+      ./assets/img/resized/wire-800.png 800w,
+      ./assets/img/resized/wire-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Utrecht">
+  <figcaption><em>Wire</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
     src="./assets/img/resized/hardanger-800.jpg" 
     srcset="
       ./assets/img/resized/hardanger-400.jpg 400w,
