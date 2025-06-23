@@ -8,6 +8,21 @@ layout: default
 
 <figure>
   <img 
+    src="./assets/img/resized/fonnabu-800.png" 
+    srcset="
+      ./assets/img/resized/fonnabu-400.png 400w,
+      ./assets/img/resized/fonnabu-800.png 800w,
+      ./assets/img/resized/fonnabu-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Fonnabu">
+  <figcaption><em>Fonnabu</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
     src="./assets/img/resized/wire-800.png" 
     srcset="
       ./assets/img/resized/wire-400.png 400w,
@@ -15,7 +30,7 @@ layout: default
       ./assets/img/resized/wire-1200.png 1200w
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
-    alt="Utrecht">
+    alt="A wire in the light of sunset">
   <figcaption><em>Wire</em></figcaption>
 </figure>
 
