@@ -8,6 +8,21 @@ layout: default
 
 <figure>
   <img 
+    src="./assets/img/resized/england-800.jpg" 
+    srcset="
+      ./assets/img/resized/england-400.jpg 400w,
+      ./assets/img/resized/england-800.jpg 800w,
+      ./assets/img/resized/england-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="England">
+  <figcaption><em>England</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
     src="./assets/img/resized/fonnabu-800.png" 
     srcset="
       ./assets/img/resized/fonnabu-400.png 400w,
