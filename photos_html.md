@@ -8,6 +8,81 @@ layout: default
 
 <figure>
   <img 
+    src="./assets/img/resized/gudbrandsdalen-800.png" 
+    srcset="
+      ./assets/img/resized/gudbrandsdalen-400.png 400w,
+      ./assets/img/resized/gudbrandsdalen-800.png 800w,
+      ./assets/img/resized/gudbrandsdalen-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Lom Stavkyrke">
+  <figcaption><em>Dragons' heads </em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/solstice2025-800.png" 
+    srcset="
+      ./assets/img/resized/solstice2025-400.png 400w,
+      ./assets/img/resized/solstice2025-800.png 800w,
+      ./assets/img/resized/solstice2025-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Summer">
+  <figcaption><em>  </em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/krakenes-800.png" 
+    srcset="
+      ./assets/img/resized/krakenes-400.png 400w,
+      ./assets/img/resized/krakenes-800.png 800w,
+      ./assets/img/resized/krakenes-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Kråkenes Lighthouse">
+  <figcaption><em>To the lighthouse </em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/church-800.png" 
+    srcset="
+      ./assets/img/resized/church-400.png 400w,
+      ./assets/img/resized/church-800.png 800w,
+      ./assets/img/resized/church-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Church">
+  <figcaption><em>Church, gravestones, by the sea </em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/torso-800.png" 
+    srcset="
+      ./assets/img/resized/torso-400.png 400w,
+      ./assets/img/resized/torso-800.png 800w,
+      ./assets/img/resized/torso-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Torso in metal along the coast">
+  <figcaption><em>Torso in metal </em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
     src="./assets/img/resized/summer-800.png" 
     srcset="
       ./assets/img/resized/summer-400.png 400w,
@@ -31,7 +106,7 @@ layout: default
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="England">
-  <figcaption><em>England</em></figcaption>
+  <figcaption><em>Thermals</em></figcaption>
 </figure>
 
 &nbsp;
@@ -61,7 +136,7 @@ layout: default
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="A wire in the light of sunset">
-  <figcaption><em>Wire</em></figcaption>
+  <figcaption><em>It is sunset for the wire, but not for you and me</em></figcaption>
 </figure>
 
 &nbsp;
@@ -106,7 +181,7 @@ layout: default
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="Canal">
-  <figcaption><em>Don't crash into the bridge</em></figcaption>
+  <figcaption><em>Don't crash into the bridge, just go straight through it, everything will be fine</em></figcaption>
 </figure>
 
 &nbsp;
