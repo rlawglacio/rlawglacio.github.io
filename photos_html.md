@@ -23,6 +23,21 @@ layout: default
 
 <figure>
   <img 
+    src="./assets/img/resized/mycelium-800.png" 
+    srcset="
+      ./assets/img/resized/mycelium-400.png 400w,
+      ./assets/img/resized/mycelium-800.png 800w,
+      ./assets/img/resized/mycelium-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="There were thick strands of mycelium growing out of pit props in Folldal mines">
+  <figcaption><em>There were thick strands of mycelium growing out of pit props in Folldal mines </em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
     src="./assets/img/resized/solstice2025-800.png" 
     srcset="
       ./assets/img/resized/solstice2025-400.png 400w,
