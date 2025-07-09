@@ -8,11 +8,26 @@ layout: default
 
 <figure>
   <img 
-    src="./assets/img/resized/gudbrandsdalen-800.png" 
+    src="./assets/img/resized/polzeath-800.JPEG" 
     srcset="
-      ./assets/img/resized/gudbrandsdalen-400.png 400w,
-      ./assets/img/resized/gudbrandsdalen-800.png 800w,
-      ./assets/img/resized/gudbrandsdalen-1200.png 1200w
+      ./assets/img/resized/polzeath-400.JPEG 400w,
+      ./assets/img/resized/polzeath-800.JPEG 800w,
+      ./assets/img/resized/polzeath-1200.JPEG 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Lom Stavkyrke">
+  <figcaption><em>Dragons' heads </em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/gudbrandsdalen-800.jpg" 
+    srcset="
+      ./assets/img/resized/gudbrandsdalen-400.jpg 400w,
+      ./assets/img/resized/gudbrandsdalen-800.jpg 800w,
+      ./assets/img/resized/gudbrandsdalen-1200.jpg 1200w
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="Lom Stavkyrke">
@@ -50,6 +65,7 @@ layout: default
 </figure>
 
 &nbsp;
+&nbsp;
 
 <figure>
   <img 
@@ -77,21 +93,6 @@ layout: default
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="Church">
   <figcaption><em>Church, gravestones, by the sea </em></figcaption>
-</figure>
-
-&nbsp;
-
-<figure>
-  <img 
-    src="./assets/img/resized/torso-800.png" 
-    srcset="
-      ./assets/img/resized/torso-400.png 400w,
-      ./assets/img/resized/torso-800.png 800w,
-      ./assets/img/resized/torso-1200.png 1200w
-    " 
-    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
-    alt="Torso in metal along the coast">
-  <figcaption><em>Torso in metal </em></figcaption>
 </figure>
 
 &nbsp;
@@ -152,6 +153,21 @@ layout: default
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="A wire in the light of sunset">
   <figcaption><em>It is sunset for the wire, but not for you and me</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/torso-800.png" 
+    srcset="
+      ./assets/img/resized/torso-400.png 400w,
+      ./assets/img/resized/torso-800.png 800w,
+      ./assets/img/resized/torso-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Torso in metal along the coast">
+  <figcaption><em>Torso in metal </em></figcaption>
 </figure>
 
 &nbsp;
