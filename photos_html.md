@@ -16,7 +16,7 @@ layout: default
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="Lom Stavkyrke">
-  <figcaption><em>Dragons' heads </em></figcaption>
+  <figcaption><em>Keep clear </em></figcaption>
 </figure>
 
 &nbsp;
@@ -92,7 +92,7 @@ layout: default
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="Church">
-  <figcaption><em>Church, gravestones, by the sea </em></figcaption>
+  <figcaption><em>Church by the sea </em></figcaption>
 </figure>
 
 &nbsp;
