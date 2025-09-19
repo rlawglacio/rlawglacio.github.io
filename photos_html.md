@@ -152,7 +152,7 @@ layout: default
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="A wire in the light of sunset">
-  <figcaption><em>It is sunset for the wire, but not for you and me</em></figcaption>
+  <figcaption><em>Wire</em></figcaption>
 </figure>
 
 &nbsp;
@@ -212,7 +212,7 @@ layout: default
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="Canal">
-  <figcaption><em>Don't crash into the bridge, just go straight through it, everything will be fine</em></figcaption>
+  <figcaption><em>Don't crash into the bridge</em></figcaption>
 </figure>
 
 &nbsp;
