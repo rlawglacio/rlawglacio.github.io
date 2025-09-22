@@ -53,21 +53,6 @@ layout: default
 
 <figure>
   <img 
-    src="./assets/img/resized/oneyear-800.jpg" 
-    srcset="
-      ./assets/img/resized/oneyear-400.jpg 400w,
-      ./assets/img/resized/oneyear-800.jpg 800w,
-      ./assets/img/resized/oneyear-1200.jpg 1200w
-    " 
-    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
-    alt="oak ash">
-  <figcaption><em>One year earlier</em></figcaption>
-</figure>
-
-&nbsp;
-
-<figure>
-  <img 
     src="./assets/img/resized/carlos-800.jpg" 
     srcset="
       ./assets/img/resized/carlos-400.jpg 400w,
@@ -77,21 +62,6 @@ layout: default
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="oak ash">
   <figcaption><em>Carlos</em></figcaption>
-</figure>
-
-&nbsp;
-
-<figure>
-  <img 
-    src="./assets/img/resized/amsterdamn-800.jpg" 
-    srcset="
-      ./assets/img/resized/amsterdamn-400.jpg 400w,
-      ./assets/img/resized/amsterdamn-800.jpg 800w,
-      ./assets/img/resized/amsterdamn-1200.jpg 1200w
-    " 
-    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
-    alt="oak ash">
-  <figcaption><em>Amsterdam</em></figcaption>
 </figure>
 
 &nbsp;
