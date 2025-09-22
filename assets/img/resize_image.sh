@@ -4,7 +4,7 @@
 sizes=(400 800 1200)
 
 # Directory with original images
-input_dir="$HOME/Documents/_Bergen/everything_else/web/rlawglacio.github.io/assets/img"
+input_dir="/Users/kinak/Documents/_Zurich/lowearthorbit/web/rlawglacio.github.io/assets/img"
 output_dir="$input_dir/resized"
 
 echo "Input directory: $input_dir"
