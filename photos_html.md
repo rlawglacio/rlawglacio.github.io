@@ -16,7 +16,7 @@ layout: default
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="oak ash">
-  <figcaption><em>the lamp outside my old apartment</em></figcaption>
+  <figcaption><em>the street lamp outside my old apartment</em></figcaption>
 </figure>
 
 &nbsp;
@@ -32,21 +32,6 @@ layout: default
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="oak ash">
   <figcaption><em>follow the frozen sticks</em></figcaption>
-</figure>
-
-&nbsp;
-
-<figure>
-  <img 
-    src="./assets/img/resized/unredal-800.jpg" 
-    srcset="
-      ./assets/img/resized/unredal-400.jpg 400w,
-      ./assets/img/resized/unredal-800.jpg 800w,
-      ./assets/img/resized/unredal-1200.jpg 1200w
-    " 
-    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
-    alt="oak ash">
-  <figcaption><em>Unredal</em></figcaption>
 </figure>
 
 &nbsp;
