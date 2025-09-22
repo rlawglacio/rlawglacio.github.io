@@ -7,7 +7,7 @@ image: cambridge-1.jpg
 
 <!--![again2](/assets/img/rob-1.jpg)-->
 
-**Hei**, I'm Rob, a research fellow at ETH Zurich. Before that I was a postdoc at the University of Bergen in Norway and a PhD candidate at the Scott Polar Research Institue, University of Cambridge.
+**Hei**, I'm Rob(in), presently gainfully employed as an ETH Zurich research fellow. Before that my academic career was as a postdoc at the University of Bergen in Norway and a PhD candidate at the Scott Polar Research Institue, University of Cambridge.
 
 My work uses numerical modelling and observations to disentangle how ice sheets move. In particular, I'm interested in the thermal state and basal motion mechanics of ice sheets and glaciers. 
 
