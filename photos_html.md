@@ -8,6 +8,111 @@ layout: default
 
 <figure>
   <img 
+    src="./assets/img/resized/lamp-800.jpg" 
+    srcset="
+      ./assets/img/resized/lamp-400.jpg 400w,
+      ./assets/img/resized/lamp-800.jpg 800w,
+      ./assets/img/resized/lamp-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>the lamp outside my old apartment</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/littkald-800.jpg" 
+    srcset="
+      ./assets/img/resized/littkald-400.jpg 400w,
+      ./assets/img/resized/littkald-800.jpg 800w,
+      ./assets/img/resized/littkald-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>follow the frozen sticks</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/unredal-800.jpg" 
+    srcset="
+      ./assets/img/resized/unredal-400.jpg 400w,
+      ./assets/img/resized/unredal-800.jpg 800w,
+      ./assets/img/resized/unredal-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>Unredal</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/mikesuzy-800.jpg" 
+    srcset="
+      ./assets/img/resized/mikesuzy-400.jpg 400w,
+      ./assets/img/resized/mikesuzy-800.jpg 800w,
+      ./assets/img/resized/mikesuzy-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>west is mike and suzy</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/oneyear-800.jpg" 
+    srcset="
+      ./assets/img/resized/oneyear-400.jpg 400w,
+      ./assets/img/resized/oneyear-800.jpg 800w,
+      ./assets/img/resized/oneyear-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>One year earlier</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/carlos-800.jpg" 
+    srcset="
+      ./assets/img/resized/carlos-400.jpg 400w,
+      ./assets/img/resized/carlos-800.jpg 800w,
+      ./assets/img/resized/carlos-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>Carlos</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/amsterdamn-800.jpg" 
+    srcset="
+      ./assets/img/resized/amsterdamn-400.jpg 400w,
+      ./assets/img/resized/amsterdamn-800.jpg 800w,
+      ./assets/img/resized/amsterdamn-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>Amsterdam</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
     src="./assets/img/resized/thesun-800.jpg" 
     srcset="
       ./assets/img/resized/thesun-400.jpg 400w,
