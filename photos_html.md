@@ -31,7 +31,7 @@ layout: default
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="oak ash">
-  <figcaption><em>More stones on Stanton Moor</em></figcaption>
+  <figcaption><em>moor stones</em></figcaption>
 </figure>
 
 &nbsp;
@@ -46,7 +46,7 @@ layout: default
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="oak ash">
-  <figcaption><em>Morning after, summer at least</em></figcaption>
+  <figcaption><em>morning after</em></figcaption>
 </figure>
 
 &nbsp;
@@ -91,7 +91,7 @@ layout: default
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="oak ash">
-  <figcaption><em>follow the frozen sticks (they lead to a nice warm hut)</em></figcaption>
+  <figcaption><em>follow the frozen sticks</em></figcaption>
 </figure>
 
 &nbsp;
