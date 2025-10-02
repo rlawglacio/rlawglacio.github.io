@@ -8,6 +8,66 @@ layout: default
 
 <figure>
   <img 
+    src="./assets/img/resized/fromanywhere-800.jpg" 
+    srcset="
+      ./assets/img/resized/fromanywhere-400.jpg 400w,
+      ./assets/img/resized/fromanywhere-800.jpg 800w,
+      ./assets/img/resized/fromanywhere-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>Five miles from anywhere</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/winter-800.jpg" 
+    srcset="
+      ./assets/img/resized/winter-400.jpg 400w,
+      ./assets/img/resized/winter-800.jpg 800w,
+      ./assets/img/resized/winter-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>More stones on Stanton Moor</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/morningafter-800.jpg" 
+    srcset="
+      ./assets/img/resized/morningafter-400.jpg 400w,
+      ./assets/img/resized/morningafter-800.jpg 800w,
+      ./assets/img/resized/morningafter-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>Morning after, summer at least</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/athens-800.jpg" 
+    srcset="
+      ./assets/img/resized/athens-400.jpg 400w,
+      ./assets/img/resized/athens-800.jpg 800w,
+      ./assets/img/resized/athens-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>Athens</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
     src="./assets/img/resized/lamp-800.jpg" 
     srcset="
       ./assets/img/resized/lamp-400.jpg 400w,
@@ -16,7 +76,7 @@ layout: default
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="oak ash">
-  <figcaption><em>the street lamp outside my old apartment</em></figcaption>
+  <figcaption><em>the street lamp outside my old apartment (in winter, obviously)</em></figcaption>
 </figure>
 
 &nbsp;
@@ -31,7 +91,7 @@ layout: default
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="oak ash">
-  <figcaption><em>follow the frozen sticks</em></figcaption>
+  <figcaption><em>follow the frozen sticks (they lead to a nice warm hut)</em></figcaption>
 </figure>
 
 &nbsp;
@@ -46,7 +106,7 @@ layout: default
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="oak ash">
-  <figcaption><em>west is mike and suzy</em></figcaption>
+  <figcaption><em>west is mike and suzy (east is the north sea)</em></figcaption>
 </figure>
 
 &nbsp;
@@ -408,21 +468,6 @@ layout: default
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="oak ash">
   <figcaption><em>Dette her</em></figcaption>
-</figure>
-
-&nbsp;
-
-<figure>
-  <img 
-    src="./assets/img/resized/me-800.png" 
-    srcset="
-      ./assets/img/resized/me-400.png 400w,
-      ./assets/img/resized/me-800.png 800w,
-      ./assets/img/resized/me-1200.png 1200w
-    " 
-    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
-    alt="me">
-  <figcaption><em>Ah herregud</em></figcaption>
 </figure>
 
 &nbsp;
