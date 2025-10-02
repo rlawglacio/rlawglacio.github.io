@@ -38,21 +38,6 @@ layout: default
 
 <figure>
   <img 
-    src="./assets/img/resized/morningafter-800.jpg" 
-    srcset="
-      ./assets/img/resized/morningafter-400.jpg 400w,
-      ./assets/img/resized/morningafter-800.jpg 800w,
-      ./assets/img/resized/morningafter-1200.jpg 1200w
-    " 
-    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
-    alt="oak ash">
-  <figcaption><em>morning after</em></figcaption>
-</figure>
-
-&nbsp;
-
-<figure>
-  <img 
     src="./assets/img/resized/athens-800.jpg" 
     srcset="
       ./assets/img/resized/athens-400.jpg 400w,
@@ -815,6 +800,21 @@ layout: default
   <figcaption><em>Kinder Scout to Hebden Bridge</em></figcaption>
 </figure>
 
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/morningafter-800.jpg" 
+    srcset="
+      ./assets/img/resized/morningafter-400.jpg 400w,
+      ./assets/img/resized/morningafter-800.jpg 800w,
+      ./assets/img/resized/morningafter-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>morning after</em></figcaption>
+</figure>
 
 &nbsp;
 
