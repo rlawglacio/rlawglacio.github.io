@@ -15,7 +15,7 @@ This site is largely to host [photos](./photos_html.html) so that I don't have t
 
 [Here](./fjellski.md) is a guide to skiing and some hiking in western Norway.
 
-[Motorway land](./motorwayland.md)
+[Motorway land](./assets/pdf/mway_land_higherres.pdf) (72 MB)
 
 And, my publications can be found [here](./publications.html).
 
