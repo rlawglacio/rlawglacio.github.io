@@ -32,6 +32,8 @@ Adam Booth, Poul Christoffersen, Charlotte Schoonman, Andy Clarke, Bryn Hubbard,
 
 ## Preprints
 
+Thomas R Chudley, Chris R Stokes, James M Lea, Thomas Winterbottom, **Robert Law**, Caroline Clason, Holly E Wytiahlowsky, Jack L Dechow. **Seasonal ice dynamics control the timing of crevasse drainage at a fast-flowing outlet glacier**. *EarthArXiv*. [https://doi.org/10.31223/X5H45B](https://doi.org/10.31223/X5H45B) .
+
 Sjur Barndon, **Robert Law**, Andreas Born, Thomas Chudley, & Stefanie Brechtelsbauer (2025). **Ice motion acorss incised fjord landscapes**. *The Cryosphere Discussions*. [https://doi.org/10.5194/egusphere-2025-1304](https://doi.org/10.5194/egusphere-2025-1304).
 
 **Robert Law**, Andreas Born, Philipp Voigt, Joseph A. MacGregor, & Claire Marie Guimond (2024). **Exploring the conditions conducive to convection within the Greenland Ice Sheet**. *arXiv preprint/The Cryosphere Discussions*. [https://doi.org/https://doi.org/10.48550/arXiv.2411.18779](https://doi.org/https://doi.org/10.48550/arXiv.2411.18779).
