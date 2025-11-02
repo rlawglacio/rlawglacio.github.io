@@ -8,6 +8,51 @@ layout: default
 
 <figure>
   <img 
+    src="./assets/img/resized/korn-800.png" 
+    srcset="
+      ./assets/img/resized/korn-400.png 400w,
+      ./assets/img/resized/korn-800.png 800w,
+      ./assets/img/resized/korn-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Øygarden">
+  <figcaption><em>There's Earth's tallest operational grain elevator, so there's that</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/dance-800.png" 
+    srcset="
+      ./assets/img/resized/dance-400.png 400w,
+      ./assets/img/resized/dance-800.png 800w,
+      ./assets/img/resized/dance-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Øygarden">
+  <figcaption><em>' '</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/tegningg-800.png" 
+    srcset="
+      ./assets/img/resized/tegningg-400.png 400w,
+      ./assets/img/resized/tegningg-800.png 800w,
+      ./assets/img/resized/tegningg-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="oak ash">
+  <figcaption><em>' '</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
     src="./assets/img/resized/fromanywhere-800.jpg" 
     srcset="
       ./assets/img/resized/fromanywhere-400.jpg 400w,
