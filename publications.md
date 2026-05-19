@@ -4,7 +4,7 @@ layout: default
 
 ## Publications 
 
-Sjur Barndon, **Robert Law**, Andreas Born, Thomas Chudley, & Stefanie Brechtelsbauer (2025). **Ice motion acorss incised fjord landscapes**. *The Cryosphere*. [https://doi.org/10.5194/tc-20-2757-2026](https://doi.org/10.5194/tc-20-2757-2026).
+Sjur Barndon, **Robert Law**, Andreas Born, Thomas Chudley, & Stefanie Brechtelsbauer (2026). **Ice motion acorss incised fjord landscapes**. *The Cryosphere*. [https://doi.org/10.5194/tc-20-2757-2026](https://doi.org/10.5194/tc-20-2757-2026).
 
 **Robert Law**, Andreas Born, Philipp Voigt, Joseph A. MacGregor, & Claire Marie Guimond (2026). **Exploring the conditions conducive to convection within the Greenland Ice Sheet**. *The Cryosphere*. [https://doi.org/10.5194/tc-20-1071-2026](https://doi.org/10.5194/tc-20-1071-2026).
 
