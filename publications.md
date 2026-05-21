@@ -4,6 +4,8 @@ layout: default
 
 ## Publications 
 
+Thomas R Chudley, Chris R Stokes, James M Lea, Thomas Winterbottom, **Robert Law**, Caroline Clason, Holly E Wytiahlowsky, & Jack L Dechow (2026). **Seasonal ice dynamics control the timing of crevasse drainage at a fast-flowing outlet glacier**. *AGU Advances*. [https://doi.org/10.1029/2025AV002150](https://doi.org/10.1029/2025AV002150).
+
 Sjur Barndon, **Robert Law**, Andreas Born, Thomas Chudley, & Stefanie Brechtelsbauer (2026). **Ice motion acorss incised fjord landscapes**. *The Cryosphere*. [https://doi.org/10.5194/tc-20-2757-2026](https://doi.org/10.5194/tc-20-2757-2026).
 
 **Robert Law**, Andreas Born, Philipp Voigt, Joseph A. MacGregor, & Claire Marie Guimond (2026). **Exploring the conditions conducive to convection within the Greenland Ice Sheet**. *The Cryosphere*. [https://doi.org/10.5194/tc-20-1071-2026](https://doi.org/10.5194/tc-20-1071-2026).
@@ -35,8 +37,6 @@ Adam Booth, Poul Christoffersen, Charlotte Schoonman, Andy Clarke, Bryn Hubbard,
 **Robert Law** & Mark Allen (2020). **Diachronous Tibetan Plateau landscape evolution derived from lava field geomorphology**. *Geology*, 48(3), 263–267. [https://doi.org/10.1130/g47196.1](https://doi.org/10.1130/g47196.1).
 
 ## Preprints
-
-Thomas R Chudley, Chris R Stokes, James M Lea, Thomas Winterbottom, **Robert Law**, Caroline Clason, Holly E Wytiahlowsky, Jack L Dechow. **Seasonal ice dynamics control the timing of crevasse drainage at a fast-flowing outlet glacier**. *EarthArXiv*. [https://doi.org/10.31223/X5H45B](https://doi.org/10.31223/X5H45B) .
 
 **Robert Law**, David Chandler, & Andreas Born (2024). **What is glacier sliding?**. *arXiv preprint*. [https://doi.org/10.48550/arXiv.2407.13577](https://doi.org/10.48550/arXiv.2407.13577.)
 
