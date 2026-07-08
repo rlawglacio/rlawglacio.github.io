@@ -38,6 +38,9 @@ Adam Booth, Poul Christoffersen, Charlotte Schoonman, Andy Clarke, Bryn Hubbard,
 
 ## Preprints
 
-**Robert Law**, David Chandler, & Andreas Born (2024). **What is glacier sliding?**. *arXiv preprint*. [https://doi.org/10.48550/arXiv.2407.13577](https://doi.org/10.48550/arXiv.2407.13577.)
+**Robert Law**, Mylène Jacquemart, Matthias Bühler, Mauro Angelo Werder, & Janosch Beer (2026). **Fibre-optic strain sensing on an alpine glacier**. *EGUSphere preprint*. [https://doi.org/10.5194/egusphere-2026-3329](https://doi.org/10.5194/egusphere-2026-3329).
+
+
+**Robert Law**, David Chandler, & Andreas Born (2026). **What is glacier sliding?**. *arXiv preprint*. [https://doi.org/10.48550/arXiv.2407.13577](https://doi.org/10.48550/arXiv.2407.13577.)
 
 [back](./)
