@@ -6,6 +6,18 @@ layout: default
 
 &nbsp;
 
+<div class="youtube-container">
+  <iframe
+    src="https://www.youtube.com/embed/PZRLB5Ym_Z4"
+    title="0718"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+</div>
+
+&nbsp;
+
 <figure>
   <img 
     src="./assets/img/resized/uetliberg-800.png" 
