@@ -6,6 +6,21 @@ layout: default
 
 &nbsp;
 
+<figure>
+  <img 
+    src="./assets/img/resized/CLAIRE-800.jpg" 
+    srcset="
+      ./assets/img/resized/CLAIRE-400.jpg 400w,
+      ./assets/img/resized/CLAIRE-800.jpg 800w,
+      ./assets/img/resized/CLAIRE-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Uetliberg">
+  <figcaption><em>CLAIRE by Zürichsee on the Apple QuickTake 150</em></figcaption>
+</figure>
+
+&nbsp;
+
 <div class="youtube-container">
   <iframe
     src="https://www.youtube.com/embed/PZRLB5Ym_Z4"
