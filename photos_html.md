@@ -12,7 +12,7 @@ layout: default
     srcset="
       ./assets/img/resized/CLAIRE-400.jpg 400w,
       ./assets/img/resized/CLAIRE-800.jpg 800w,
-      ./assets/img/resized/CLAIRE-1200.jpg 1200w
+      ./assets/img/resized/CLAIRE -1200.jpg 1200w
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="Uetliberg">
@@ -21,15 +21,37 @@ layout: default
 
 &nbsp;
 
-<div class="youtube-container">
-  <iframe
-    src="https://www.youtube.com/embed/PZRLB5Ym_Z4"
-    title="0718"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen>
-  </iframe>
-</div>
+<style>
+.youtube-container {
+  position: relative;
+  width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+}
+
+.youtube-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+</style>
+
+<figure>
+  <div class="youtube-container">
+    <iframe
+      src="https://www.youtube.com/embed/PZRLB5Ym_Z4"
+      title="0718"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen>
+    </iframe>
+  </div>
+
+  <figcaption><em>Gornergletscher</em></figcaption>
+</figure>
 
 &nbsp;
 
