@@ -8,6 +8,52 @@ layout: default
 
 <figure>
   <img 
+    src="./assets/img/resized/kantarell-800.png" 
+    srcset="
+      ./assets/img/resized/kantarell-400.png 400w,
+      ./assets/img/resized/kantarell-800.png 800w,
+      ./assets/img/resized/kantarell-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Uetliberg">
+  <figcaption><em>Kantarell</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/bieksos-800.png" 
+    srcset="
+      ./assets/img/resized/bieksos-400.png 400w,
+      ./assets/img/resized/bieksos-800.png 800w,
+      ./assets/img/resized/bieksos-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Uetliberg">
+  <figcaption><em>Biekštos</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/lake-800.png" 
+    srcset="
+      ./assets/img/resized/lake-400.png 400w,
+      ./assets/img/resized/lake-800.png 800w,
+      ./assets/img/resized/lake-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="lake">
+  <figcaption><em>⋆ ̊꩜。</em></figcaption>
+</figure>
+
+&nbsp;
+
+
+<figure>
+  <img 
     src="./assets/img/resized/CLAIRE-800.jpg" 
     srcset="
       ./assets/img/resized/CLAIRE-400.jpg 400w,
@@ -565,4 +611,4 @@ layout: default
 </figure>
 
 
-[back](./)
+[back](./), [2](./photos_html.html)
