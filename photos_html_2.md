@@ -8,6 +8,81 @@ layout: default
 
 <figure>
   <img 
+    src="./assets/img/resized/zurich-800.jpg" 
+    srcset="
+      ./assets/img/resized/zurich-400.jpg 400w,
+      ./assets/img/resized/zurich-800.jpg 800w,
+      ./assets/img/resized/zurich-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Uetliberg">
+  <figcaption><em>Zürich</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/bern-800.jpg" 
+    srcset="
+      ./assets/img/resized/bern-400.jpg 400w,
+      ./assets/img/resized/bern-800.jpg 800w,
+      ./assets/img/resized/bern-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Uetliberg">
+  <figcaption><em>Bern</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/baudi-800.jpg" 
+    srcset="
+      ./assets/img/resized/baudi-400.jpg 400w,
+      ./assets/img/resized/baudi-800.jpg 800w,
+      ./assets/img/resized/baudi-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Uetliberg">
+  <figcaption><em>Baudi</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/snowfall-800.jpg" 
+    srcset="
+      ./assets/img/resized/snowfall-400.jpg 400w,
+      ./assets/img/resized/snowfall-800.jpg 800w,
+      ./assets/img/resized/snowfall-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Uetliberg">
+  <figcaption><em>Snowfall in Norway</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/ski-800.jpg" 
+    srcset="
+      ./assets/img/resized/ski-400.jpg 400w,
+      ./assets/img/resized/ski-800.jpg 800w,
+      ./assets/img/resized/ski-1200.jpg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Uetliberg">
+  <figcaption><em>Marin</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
     src="./assets/img/resized/kantarell-800.png" 
     srcset="
       ./assets/img/resized/kantarell-400.png 400w,
