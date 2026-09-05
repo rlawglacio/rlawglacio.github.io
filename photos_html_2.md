@@ -8,6 +8,96 @@ layout: default
 
 <figure>
   <img 
+    src="./assets/img/resized/leavesbuds-800.png" 
+    srcset="
+      ./assets/img/resized/leavesbuds-400.png 400w,
+      ./assets/img/resized/leavesbuds-800.png 800w,
+      ./assets/img/resized/leavesbuds-1200.png 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Uetliberg">
+  <figcaption><em>Onto Jostedalsbreen</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/george-800.jpeg" 
+    srcset="
+      ./assets/img/resized/george-400.jpeg 400w,
+      ./assets/img/resized/george-800.jpeg 800w,
+      ./assets/img/resized/george-1200.jpeg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Uetliberg">
+  <figcaption><em>George</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/everywhereyougo-800.jpeg" 
+    srcset="
+      ./assets/img/resized/everywhereyougo-400.jpeg 400w,
+      ./assets/img/resized/everywhereyougo-800.jpeg 800w,
+      ./assets/img/resized/everywhereyougo-1200.jpeg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Uetliberg">
+  <figcaption><em>Everywhere you go</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/craig-800.jpeg" 
+    srcset="
+      ./assets/img/resized/craig-400.jpeg 400w,
+      ./assets/img/resized/craig-800.jpeg 800w,
+      ./assets/img/resized/craig-1200.jpeg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Uetliberg">
+  <figcaption><em>We still miss Craig</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/chessjen-800.jpeg" 
+    srcset="
+      ./assets/img/resized/chessjen-400.jpeg 400w,
+      ./assets/img/resized/chessjen-800.jpeg 800w,
+      ./assets/img/resized/chessjen-1200.jpeg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Uetliberg">
+  <figcaption><em>Strain sensing</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
+    src="./assets/img/resized/daneoverjostedalsbreen-800.jpeg" 
+    srcset="
+      ./assets/img/resized/daneoverjostedalsbreen-400.jpeg 400w,
+      ./assets/img/resized/daneoverjostedalsbreen-800.jpeg 800w,
+      ./assets/img/resized/daneoverjostedalsbreen-1200.jpeg 1200w
+    " 
+    sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
+    alt="Uetliberg">
+  <figcaption><em>Onto Jostedalsbreen</em></figcaption>
+</figure>
+
+&nbsp;
+
+<figure>
+  <img 
     src="./assets/img/resized/zurich-800.jpg" 
     srcset="
       ./assets/img/resized/zurich-400.jpg 400w,
@@ -61,7 +151,7 @@ layout: default
     " 
     sizes="(max-width: 600px) 100vw, (max-width: 1200px) 50vw, 800px"
     alt="Uetliberg">
-  <figcaption><em>Snowfall in Norway</em></figcaption>
+  <figcaption><em>The midtsommer thaw</em></figcaption>
 </figure>
 
 &nbsp;
